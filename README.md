@@ -1,8 +1,8 @@
 # Covid-SNA
-Project involves:
-1- Mathematical modeling of the spread of a pandemic in a population considering the case of SEIR Model (Suspectible-Exposed-Infected-Recovered) over a contact network.
-2- Creating of the Monte Carlo simulation of the mathematical model for numerical analysis.
-3- Creating a web demo of the spread of pandemic in a network using HTML, CSS and JavaScript.
+Project involves: //
+1- Mathematical modeling of the spread of a pandemic in a population considering the case of SEIR Model (Suspectible-Exposed-Infected-Recovered) over a contact network. //
+2- Creating of the Monte Carlo simulation of the mathematical model for numerical analysis. //
+3- Creating a web demo of the spread of pandemic in a network using HTML, CSS and JavaScript. //
 
 Project Members:
 Vaibhav Mishra | Muzzafer Ali | Abhinav Pandey | Kunal Jangid
