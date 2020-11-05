@@ -20,7 +20,7 @@ Checklist:
 
 3- Web Demonstration - Completed
 
-![Alt text](results/1.png?raw=true "title")
-![alt text](results/2.png)
-![alt text](results/3.png)
-![alt text](results/download.png)
+![Alt text](results/1.png?raw=true "Simulation for random distribution for SEIR Model")
+![alt text](results/2.png "Simulation for random distribution for SEIR Model")
+![alt text](results/3.png "Simulation for random distribution for SEIR Model")
+![alt text](results/download.png "Simulation for random distribution for SEIR Model")
