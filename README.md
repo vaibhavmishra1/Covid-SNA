@@ -1,4 +1,5 @@
 # Covid-SNA
+
 Project involves: 
 
 * Mathematical modeling of the spread of a pandemic in a population considering the case of SEIR Model (Suspectible-Exposed-Infected-Recovered) over a contact network. 
@@ -12,6 +13,7 @@ Vaibhav Mishra | Muzzafer Ali | Abhinav Pandey | Kunal Jangid
 
 Project Duration : 1 October,2020 - 1 Nov,2020.
 
+Please like the project if you find it helpful.
 Checklist:
 
 1- **Mathematical Model - Completed**
