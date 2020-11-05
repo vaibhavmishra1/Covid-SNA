@@ -31,20 +31,20 @@ Checklist:
 * A web interface is designed for visualizing the progress of spread of pandemic in a contact network written in CSS, HTML anf JavaScript present in simulation folder.
 
 
-
+**Simulation for SEIR Model on Contact Network**
 
 ![alt text](results/1.png?raw=true "Simulation for random distribution for SEIR Model")
 
-**Simulation for SEIR Model on Contact Network**
+**Graph Plot of the simulation**
 
 ![alt text](results/2.png "Simulation for random distribution for SEIR Model")
 
-**Graph Plot of the simulation**
+**Simulation for gaussian distribution of Contact Network**
 
 ![alt text](results/3.png "Simulation for random distribution for SEIR Model")
 
-**Simulation for gaussian distribution of Contact Network**
+
+**Graph plot for the simulation**
 
 ![alt text](results/download.png "Simulation for random distribution for SEIR Model")
 
-**Graph plot for the simulation**
