@@ -20,3 +20,4 @@ Checklist:
 
 3- Web Demonstration - Completed
 
+![alt text](http://url/to/img.png)
