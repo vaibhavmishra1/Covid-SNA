@@ -20,7 +20,7 @@ Checklist:
 
 3- Web Demonstration - Completed
 
-![alt text](https://github.com/vaibhavmishra1/Covid-SNA/tree/master/results/1.png)
+![Alt text](https://github.com/vaibhavmishra1/Covid-SNA/tree/master/results/1.png?raw=true "title")
 ![alt text](https://github.com/vaibhavmishra1/Covid-SNA/tree/master/results/2.png)
 ![alt text](https://github.com/vaibhavmishra1/Covid-SNA/tree/master/results/3.png)
 ![alt text](https://github.com/vaibhavmishra1/Covid-SNA/tree/master/results/download.png)
